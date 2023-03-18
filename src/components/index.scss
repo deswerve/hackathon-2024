@@ -36,10 +36,10 @@ body {
 
 a {
     color: var(--color-link-dark);
-}
 
-a:hover {
-    color: var(--color-link-dark-hover);
+    &:hover {
+        color: var(--color-link-dark-hover);
+    }
 }
 
 code {

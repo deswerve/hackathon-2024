@@ -7,12 +7,14 @@
 .dark {
     background-color: var(--color-highlight-medium);
     color: var(--color-font-light);
-}
-.dark a {
-    color: var(--color-link-light);
-}
-.dark a:hover {
-    color: var(--color-link-light-hover);
+
+    a {
+        color: var(--color-link-light);
+
+        &:hover {
+            color: var(--color-link-light-hover);
+        }
+    }
 }
 
 .header {
@@ -21,25 +23,25 @@
 
 .title {
     text-align: center;
-}
-.title p a {
-    text-decoration: underline;
-}
+    p a {
+        text-decoration: underline;
+    }
 
-.title a {
-    text-decoration: none;
-}
-.title h1 {
-    font-family: "Roboto Mono", monospace;
-    text-decoration: none;
-    text-transform: uppercase;
-    color: white;
-    line-height: 1;
-    font-size: 4em;
-    margin-bottom: 0;
+    a {
+        text-decoration: none;
+    }
+    h1 {
+        font-family: "Roboto Mono", monospace;
+        text-decoration: none;
+        text-transform: uppercase;
+        color: white;
+        line-height: 1;
+        font-size: 4em;
+        margin-bottom: 0;
 
-    -webkit-text-stroke: 2px black;
-    text-shadow: 3px 3px 0 black;
+        -webkit-text-stroke: 2px black;
+        text-shadow: 3px 3px 0 black;
+    }
 }
 
 .content {

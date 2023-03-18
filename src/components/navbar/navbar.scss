@@ -1,33 +1,36 @@
-.navbar ul {
-    margin: 0;
-    padding: 0;
-}
-
-.navbar li {
-    list-style: none;
-    margin-bottom: 0.3em;
-}
-
-.navbar a {
-    display: block;
-
-    height: 2em;
-    font-size: 1.2em;
-}
-
 .navbar {
     background-image: url("/leiterbahnen.svg");
     background-position: bottom;
     background-repeat: no-repeat;
-}
 
-.navbar .archive a {
-    font-size: 0.9em;
-}
-.navbar .archive p {
-    font-size: 1.1em;
-    margin-bottom: 0;
-}
-.navbar .archive ul {
-    margin-left: 1em;
+    ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    li {
+        list-style: none;
+        margin-bottom: 0.3em;
+    }
+
+    a {
+        display: block;
+
+        height: 2em;
+        font-size: 1.2em;
+    }
+
+    .archive {
+        a {
+            font-size: 0.9em;
+        }
+
+        p {
+            font-size: 1.1em;
+            margin-bottom: 0;
+        }
+        ul {
+            margin-left: 1em;
+        }
+    }
 }

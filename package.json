@@ -25,6 +25,7 @@
         "gatsby": "^5.7.0",
         "gatsby-plugin-image": "^3.7.0",
         "gatsby-plugin-manifest": "^5.7.0",
+        "gatsby-plugin-sass": "^6.7.0",
         "gatsby-plugin-sharp": "^5.7.0",
         "gatsby-plugin-sitemap": "^6.7.0",
         "gatsby-source-filesystem": "^5.7.0",
@@ -32,6 +33,7 @@
         "gatsby-transformer-sharp": "^5.7.0",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
+        "sass": "^1.59.3",
         "typeface-roboto-mono": "^1.1.13"
     },
     "devDependencies": {
