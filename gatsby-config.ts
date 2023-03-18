@@ -1,5 +1,5 @@
 import type { GatsbyConfig } from "gatsby"
-import path from "node:path";
+import path from "node:path"
 
 const config: GatsbyConfig = {
     siteMetadata: {
@@ -16,7 +16,7 @@ const config: GatsbyConfig = {
         {
             resolve: "gatsby-plugin-manifest",
             options: {
-                icon: path.resolve("content/images/icon.png"),
+                icon: path.resolve("content/images/doev-logo.png"),
             },
         },
         "gatsby-transformer-remark",
