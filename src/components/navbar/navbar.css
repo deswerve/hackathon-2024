@@ -1,0 +1,22 @@
+.navbar > ul {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    list-style: none;
+    margin-bottom: 0.3em;
+}
+
+.navbar a {
+    display: block;
+
+    height: 2em;
+    font-size: 1.2em;
+}
+
+.navbar {
+    background-image: url("/leiterbahnen.svg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+}

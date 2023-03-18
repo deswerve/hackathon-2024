@@ -1,0 +1,135 @@
+.App {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.dark {
+    background-color: var(--color-highlight-medium);
+    color: var(--color-font-light);
+}
+.dark a {
+    color: var(--color-link-light);
+}
+.dark a:hover {
+    color: var(--color-link-light-hover);
+}
+
+.header {
+    padding-bottom: var(--common-space);
+}
+
+.title {
+    text-align: center;
+}
+.title p a {
+    text-decoration: underline;
+}
+
+.title a {
+    text-decoration: none;
+}
+.title h1 {
+    font-family: "Roboto Mono", monospace;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    line-height: 1;
+    font-size: 4em;
+    margin-bottom: 0;
+
+    -webkit-text-stroke: 2px black;
+    text-shadow: 3px 3px 0 black;
+}
+
+.content {
+    background-color: var(--color-bg-content);
+    flex-grow: 1;
+
+    color: var(--color-font-dark);
+    padding: var(--common-space);
+}
+
+.Markdown {
+    display: inline-block;
+    height: 100%;
+}
+
+#hackathon_headline {
+    height: 150px;
+}
+
+.navbar {
+    margin-top: var(--common-space);
+    margin-left: var(--common-space);
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+}
+
+.footer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer-content > a {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+/* mobile */
+@media screen and (max-width: 800px) {
+    .App {
+        --common-space: 0.5em;
+    }
+
+    .header {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        padding-bottom: var(--common-space);
+    }
+
+    .navbar {
+        background: none !important;
+    }
+
+    .footer-content {
+        height: 2em;
+    }
+}
+
+/* desktop */
+@media screen and (min-width: 800px) {
+    .App {
+        --common-space: 2em;
+    }
+    .header {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .main {
+        max-width: 1200px;
+        width: min(1200px, 100%);
+        margin-left: auto;
+        margin-right: auto;
+        flex-grow: 1;
+        display: flex;
+    }
+
+    .navbar {
+        min-width: 250px;
+    }
+
+    .footer-content {
+        height: 2.5em;
+    }
+}

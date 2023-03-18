@@ -1,0 +1,60 @@
+:root {
+    --color-light: #ffffff;
+    --color-light-medium: #e2eaea;
+    --color-medium: #c4d4d4;
+    --color-highlight-medium: #3c6e71;
+    --color-highlight-dark: #284b63;
+    --color-dark: #353535;
+
+    --color-bg: var(--color-light);
+    --color-bg-content: var(--color-light-medium);
+    --color-font-dark: var(--color-dark);
+    --color-font-light: white;
+    --color-link-dark: var(--color-highlight-dark);
+    --color-link-dark-hover: var(--color-dark);
+    --color-link-light: var(--color-light-medium);
+    --color-link-light-hover: var(--color-medium);
+}
+
+html {
+    overflow-y: scroll;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+        "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    line-height: 160%;
+    height: 100vh;
+
+    background-color: var(--color-bg-content);
+    color: var(--color-font-dark);
+}
+
+a {
+    color: var(--color-link-dark);
+}
+
+a:hover {
+    color: var(--color-link-dark-hover);
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+/* h1 is used only for main headline of a page and there the top-margin is handled by the container */
+h1 {
+    margin-top: 0;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 2rem;
+}
