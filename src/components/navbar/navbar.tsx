@@ -21,7 +21,7 @@ export const Navbar: FC = () => (
             {/*    </Link>*/}
             {/*</li>*/}
             <li>
-                <Link to="/partner">Partner</Link>
+                <Link to="/sponsoring">Sponsoren</Link>
             </li>
             <li>
                 <Link to="/participate">Teilnehmen</Link>

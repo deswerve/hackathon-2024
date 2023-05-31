@@ -11,7 +11,7 @@ gestellt wird.
 
 # Aktuelles
 
-Aktuell sind wir auf der Suche nach [Sponsoren](/partner), die uns für die allgemeine Organisation (u.a. Verpflegung)
+Aktuell sind wir auf der Suche nach [Sponsoren](/sponsoring), die uns für die allgemeine Organisation (u.a. Verpflegung)
 sowie Preisgelder finanziell unterstützen möchten. Wir sind gerade dabei, konkrete Sponsoringpakete auszuarbeiten und
 werden diese in Kürze bekannt geben.
 
