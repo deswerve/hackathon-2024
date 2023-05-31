@@ -31,11 +31,12 @@ Challenge arbeiten und dadurch ein echter Wettbewerb um die besten Ideen und Lö
 
 # Wir freuen uns auf Vorschläge zu Challenges!
 
-Eine Challenge ist eine Aufgabe bzw. Idee, die ein kleines Team innerhalb eines Wochenendes lösen kann. Idealerweise hat
-die Aufgabe einen Nutzen für die Gesellschaft und leistet einen kleinen Beitrag zur positiven Entwicklung der Region,
-des Landes oder der Welt. Regionale Challenges werden bevorzugt aber auch überregionale Challenges sind sehr gerne
-gesehen. Wenn Sie nur eine grobe Idee haben und Unterstützung bei der Ausformulierung benötigen, melden Sie sich gerne
-trotzdem bei uns! Wir unterstützen gerne und sind für Anregungen offen.
+Wir suchen [Vorschläge für Challenges](/challenges). Eine Challenge ist eine (Programmier-)Aufgabe bzw. Idee, die ein
+kleines Team innerhalb eines Wochenendes lösen kann (zumindest als Prototyp). Idealerweise hat die Lösung einen Nutzen
+für die Gesellschaft und leistet einen kleinen Beitrag zur positiven Entwicklung der Region, des Landes oder der Welt.
+Regionale Challenges werden bevorzugt aber auch überregionale Challenges sind sehr gerne gesehen. Wenn Sie nur eine
+grobe Idee haben und Unterstützung bei der Ausformulierung benötigen, melden Sie sich gerne trotzdem bei uns! Wir
+unterstützen gerne und sind für Anregungen offen.
 
 ## Das erwartet euch
 
