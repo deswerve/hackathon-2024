@@ -26,9 +26,8 @@ Unternehmen in Kontakt kommen.
 
 ### Freitag
 
-Der Hackathon beginnt am Freitag ab 14:00 Uhr mit der Begrüßung der Teilnehmenden. Die Unternehmen bekommen die
-Gelegenheit, sich und die Challenges vorzustellen. Anschließend findet die Teambildung statt und die Arbeit an den
-Challenges kann beginnen.
+Der Hackathon beginnt am Freitag ab 14:30 Uhr mit der Begrüßung der Teilnehmenden und Vorstellung der Smart City Challenge.
+Anschließend findet die Teambildung statt und die Arbeit an den Challenges kann beginnen.
 
 ### Samstag
 
@@ -40,8 +39,7 @@ oder am Tischkicker.
 
 Am Sonntag gibt es am Vormittag nochmal die Möglichkeit für den letzten Feinschliff an der eigenen Lösung und zur
 Vorbereitung der Präsentation. Am Nachmittag werden alle Projekte vorgestellt und durch die Teams präsentiert.
-Anschließend findet das Voting statt. Dabei bewerten die Teams sich gegenseitig. Am Ende findet die Preisverleihung
-durch die Challenge-Geber statt.
+Anschließend findet das Voting statt. Dabei bewerten die Teams sich gegenseitig. Am Ende findet die Preisverleihung statt.
 
 ## Ist "Hacken" nicht böse?
 
