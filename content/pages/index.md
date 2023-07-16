@@ -19,7 +19,7 @@ Link zu Anmeldung: https://eveeno.com/hackathon-goerlitz-2023
 ## Das erwartet euch
 
 -   Smart City Challenge mit Sensoren und Mikrocontrollern
--   großzügige Räumlichkeiten zum Arbeiten und zum Abschalten
+-   moderne Räumlichkeiten zum Arbeiten und Abschalten
 -   pädagogisches Fachpersonal vor Ort
 -   Speisen und Getränke gratis
 
@@ -49,7 +49,7 @@ Zwischendurch stellen wir Mittag ca. 12:00 Uhr und Abendbrot ca. 18:30 Uhr für 
 Der Hackathon lebt von den Teilnehmenden und daher freuen wir uns auf Euch. Ihr wollt ein Wochenende lang basteln,
 programmieren und euch mit Gleichgesinnten austauschen? Dann meldet euch gerne für den Hackathon an.
 
-Link zu Anmeldung: https://eveeno.com/hackathon-goerlitz-2023
+Link zur Anmeldung: https://eveeno.com/hackathon-goerlitz-2023
 
 Mehr Infos zur Teilnahme findet ihr unter [Teilnehmen](/participate).
 
