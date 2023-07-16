@@ -1,6 +1,6 @@
 ---
 slug: challenges
-title: Challenge
+title: Challenges
 ---
 
 # Kann die Oberlausitz Smart City?
@@ -11,10 +11,12 @@ Wir vom Verein Digitale Oberlausitz e.V. glauben, es gibt in den Städten eine g
 
 Das ist unsere diesjährige Challenge! Welche Daten könnten Rathäusern helfen, ihre Stadt zu gestalten? Von welchen Daten würden die Bewohner profitieren? Welche Prozesse könnten damit angestoßen werden?
 
-Dieser Hackathon steht im Zeichen der Smart City. Wir stellen Sensoren, Mikroprozessoren und Cloud-Zugänge bereit, damit die Challenge-Teilnehmer direkt Daten erfassen und auswerten können. So kann die Idee gleich praktisch erprobt werden!
+Dieser Hackathon steht im Zeichen der Smart City. Wir stellen Sensoren, Mikroprozessoren und Cloud-Zugänge bereit, damit die Challenge-TeilnehmerInnen direkt Daten erfassen und auswerten können. So kann die Idee gleich praktisch erprobt werden!
 
-Ausdrücklich möchten wir auch Nicht-TechnikerInnen willkommen heißen. Technologie ist das eine - gute Ideen und der Mensch im Mittelpunkt einer Stadt das Andere. Beide Welten sollen sich hier ergänzen und gemeinsam an einer Umsetzung arbeiten :)
+Ausdrücklich möchten wir auch Nicht-TechnikerInnen willkommen heißen. Technologie ist das eine - gute Ideen und der Mensch im Mittelpunkt einer Stadt das Andere. Beide Welten sollen sich hier ergänzen und gemeinsam an einer Umsetzung arbeiten.
 
-Hast du kreative Ideen, wo Daten das Leben der Menschen bewegen können?
-Oder hast du Lust mit Technologie zu arbeiten?
-Dann melde dich für unseren Hackathon an: << Link zur Anmeldeseite>>
+Hast du kreative Ideen, wo Daten das Leben der Menschen bewegen können? Fasziniert dich die Arbeit mit Sensoren und Mikrocontrollern?
+
+Melde dich für unseren Hackathon an: https://eveeno.com/hackathon-goerlitz-2023
+
+Mehr Infos zur Teilnahme findest du unter [Teilnehmen](/participate).
