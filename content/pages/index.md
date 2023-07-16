@@ -9,46 +9,47 @@ dieses Mal die [UnbezahlbarLounge](https://unbezahlbar.land/unbezahlbarlounge), 
 [Entwicklungsgenossenschaft Niederschlesische Oberlausitz mbH (ENO)](https://wirtschaft-goerlitz.de/) zur Verfügung
 gestellt wird.
 
-# Aktuelles
+# Challenge
+Die diesjährige Challenge des Vereins Digitale Oberlausitz e.V. konzentriert sich auf das Potenzial der Smart City. Die Aufgabe ist es, zu erkunden, wie Daten das Leben in der Stadt verbessern könnten. Von der Gestaltung der Stadt durch das Rathaus bis hin zur direkten Wirkung auf die Bürgerinnen, wir suchen nach Wegen, wie diese Daten sinnvoll genutzt werden können. Mit Hilfe bereitgestellter Sensoren können die Teams ihre Ideen gleich in die Praxis umsetzen.
 
-Aktuell sind wir auf der Suche nach [Sponsoren](/sponsoring), die uns für die allgemeine Organisation (u.a. Verpflegung)
-sowie Preisgelder finanziell unterstützen möchten. Wir sind gerade dabei, konkrete Sponsoringpakete auszuarbeiten und
-werden diese in Kürze bekannt geben.
+[Lese hier mehr zur Smart City Challenge](/challenges)
 
-Desweiteren sind wir auf der Suche nach Challenge-Ideen. Wir möchten in diesem Jahr einige Änderungen in dieser Hinsicht
-vornehmen:
-
-Wir trennen das Sponsoring sowie die Preisgeld-Vergabe von den Challenges auf. Das Einreichen von Challenges ist somit
-nicht mehr an die Auslobung eines Preisgeldes gebunden. Damit soll es auch für Personen bzw. Organisationen möglich
-sein, eine Challenge einzureichen, die sich ein hohes Preisgeld nicht leisten können. Stattdessen werden die Preisgelder
-aus dem Sponsoren-Topf ausgezahlt. Für interessierte Sponsoren soll die Hürde gesenkt werden. Wer vielleicht keine
-eigene Idee für eine gute Challenge hat, uns aber trotzdem gerne unterstützen möchte, kann dies nun viel einfacher
-machen.
-
-In diesem Zuge möchten wir aber auch mehr Einfluss auf die Themensetzung nehmen und eine stärkere Auswahl der Themen
-vornehmen und tendentiell weniger Challenges gleichzeitig ausschreiben. Es sollen mehrere Teams an der gleichen
-Challenge arbeiten und dadurch ein echter Wettbewerb um die besten Ideen und Lösungen stattfinden.
-
-# Wir freuen uns auf Vorschläge zu Challenges!
-
-Wir suchen [Vorschläge für Challenges](/challenges). Eine Challenge ist eine (Programmier-)Aufgabe bzw. Idee, die ein
-kleines Team innerhalb eines Wochenendes lösen kann (zumindest als Prototyp). Idealerweise hat die Lösung einen Nutzen
-für die Gesellschaft und leistet einen kleinen Beitrag zur positiven Entwicklung der Region, des Landes oder der Welt.
-Regionale Challenges werden bevorzugt aber auch überregionale Challenges sind sehr gerne gesehen. Wenn Sie nur eine
-grobe Idee haben und Unterstützung bei der Ausformulierung benötigen, melden Sie sich gerne trotzdem bei uns! Wir
-unterstützen gerne und sind für Anregungen offen.
+Link zu Anmeldung: https://eveeno.com/hackathon-goerlitz-2023
 
 ## Das erwartet euch
 
--   regionale Challenges
--   großzügige Räumlichkeiten zum Arbeiten und zum Abschalten
+-   Smart City Challenge mit Sensoren und Mikrocontrollern
+-   moderne Räumlichkeiten zum Arbeiten und Abschalten
 -   pädagogisches Fachpersonal vor Ort
 -   Speisen und Getränke gratis
 
-# Teilnehmer\*innen gesucht
+## Ablauf
+
+Freitag, der 20.10.2023:
+- ab 14:30: Einlass
+- 15:00: Eröffnung und Vorstellung der Smart City Challenge
+- 16:00: Teamarbeit an der Challenge
+- 22:00: Ende von Tag 1
+
+Samstag, der 21.10.2023:
+- ab 08:30: Einlass und Teamarbeit an der Challenge
+- 22:00: Ende von Tag 2
+
+Sonntag, der 22.10.2023:
+- ab 08:30: Einlass und Teamarbeit an der Challenge
+- 14:30: Ergebnispresentation der Teams
+- 16:00: Jury und Preisverleihung
+- 17:00: Ende von Tag 3
+
+Zwischendurch stellen wir Mittag ca. 12:00 Uhr und Abendbrot ca. 18:30 Uhr für alle bereit.
+
+
+## Teilnehmer\*innen gesucht
 
 Der Hackathon lebt von den Teilnehmenden und daher freuen wir uns auf Euch. Ihr wollt ein Wochenende lang basteln,
 programmieren und euch mit Gleichgesinnten austauschen? Dann meldet euch gerne für den Hackathon an.
+
+Link zur Anmeldung: https://eveeno.com/hackathon-goerlitz-2023
 
 Mehr Infos zur Teilnahme findet ihr unter [Teilnehmen](/participate).
 
