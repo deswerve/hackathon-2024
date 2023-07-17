@@ -15,7 +15,7 @@ zusammenbringen.
 Wenn Sie diese Vision teilen, unterstützen Sie uns! Das eingeworbene Geld wird vollständig für die 
 Organisation des Hackathons sowie die Finanzierung von Preisen für die Teilnehmenden verwendet.
 
-**Melden Sie sich bei Interesse gerne unter [hackathon@digitale-oberlausitz.eu](mailto:hackathon@digitale-oberlausitz.eu).**
+**Am Ende dieser Seite finden Sie ein Anfrageformular oder melden Sie sich bei Interesse oder Fragen gerne unter [hackathon@digitale-oberlausitz.eu](mailto:hackathon@digitale-oberlausitz.eu).**
 
 ## Bronze-Paket  (256 Euro)
 
@@ -40,5 +40,3 @@ Organisation des Hackathons sowie die Finanzierung von Preisen für die Teilnehm
 - Zitat/Grußwort auf der Website (begrenzte Zeichenzahl, Foto von Personen + Logo möglich, Darstellung im Stile von Testimonials)
 - aufstellen eines Rollups (muss von Sponsor bereitgestellt werden)
 - großes Logo auf Sponsoring-Poster
-
-
