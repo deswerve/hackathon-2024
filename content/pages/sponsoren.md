@@ -20,11 +20,11 @@ Organisation des Hackathons sowie die Finanzierung von Preisen für die Teilnehm
 ## Bronze-Paket  (256 Euro)
 
 - Nennung als Veranstaltungsparter auf Social-Media-Auftritten des Vereins
-- Flyer/Info-Material als Beigabe zu Infobeuten für Teilnehmende
+- Flyer/Info-Material als Beigabe zu Infobeuteln für Teilnehmende
 - Erwähnung mit Logo auf Hackathon-Website
 - Erwähnung als Veranstaltungspartner durch uns bei Eröffnungsveranstaltung
 - kleines Logo auf Sponsoren-Poster bei der Veranstaltung
-- Erwähnung auf Werbe-Plakat (zeitlich befristed, bis das Plakat in Druck geht)
+- Erwähnung auf Werbe-Plakat (zeitlich befristed bis 31.08.2023)
 
 ## Silber-Paket (512 Euro)
 - alles aus Bronze-Paket
