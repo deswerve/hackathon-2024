@@ -12,9 +12,9 @@ gestellt wird.
 # Challenge
 Die diesjährige Challenge des Vereins Digitale Oberlausitz e.V. konzentriert sich auf das Potenzial der Smart City. Die Aufgabe ist es, zu erkunden, wie Daten das Leben in der Stadt verbessern könnten. Von der Gestaltung der Stadt durch das Rathaus bis hin zur direkten Wirkung auf die Bürgerinnen, wir suchen nach Wegen, wie diese Daten sinnvoll genutzt werden können. Mit Hilfe bereitgestellter Sensoren können die Teams ihre Ideen gleich in die Praxis umsetzen.
 
-[Lese hier mehr zur Smart City Challenge](/challenges)
+[Mehr zur Smart City Challenge](/challenges)
 
-Link zu Anmeldung: https://eveeno.com/hackathon-goerlitz-2023
+[Anmeldung über eveeno](https://eveeno.com/hackathon-goerlitz-2023)
 
 ## Das erwartet euch
 
