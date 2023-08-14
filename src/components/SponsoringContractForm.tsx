@@ -98,6 +98,11 @@ export const SponsoringContractForm: FC<SponsoringContractFormProps> = ({onShowR
                     <button onClick={handleSubmit}>Absenden</button>
                 </div>
             </div>
+            <p>Die in diesem Formular erfassten Daten werden von uns ausschließlich zum Zwecke der Erstellung eines
+                Sponsoring-Vertrags erhoben und verarbeitet. An dieser Verarbeitung sind beteiligt: Pipedream, Inc.
+                (San Francisco, CA, USA) für die Automatisierung der Vertragserstellung und Docsketch, LLC
+                (DBA SignWell; Portland, OR, USA) zur papierlosen Signierung und den damit verbundenen E-Mail-Verkehr.
+            </p>
         ]
         }
     </>;
