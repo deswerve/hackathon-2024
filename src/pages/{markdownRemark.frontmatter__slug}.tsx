@@ -1,7 +1,6 @@
-import React, { FC, useState } from "react"
+import React, { FC } from "react"
 import { Layout } from "../components/layout"
 import { graphql, HeadFC, PageProps } from "gatsby"
-import { SponsoringContractForm } from "../components/SponsoringContractForm";
 
 export const query = graphql`
     query ($id: String) {
@@ -26,14 +25,15 @@ type QueryResult = {
 }
 
 const ContentPage: FC<PageProps<QueryResult>> = ({ data, children }) => {
-    const [hideMarkdown, setHideMarkdown] = useState(false);
-    const {html, frontmatter: {slug}} = data.markdownRemark;
+    const {
+        html,
+        frontmatter: { slug },
+    } = data.markdownRemark
     return (
         <Layout>
-            {!hideMarkdown && <div dangerouslySetInnerHTML={{__html: html}}/>}
-            {slug === 'sponsoring' && <SponsoringContractForm onShowResultPage={setHideMarkdown}/>}
+            <div dangerouslySetInnerHTML={{ __html: html }} />
         </Layout>
-    );
+    )
 }
 
 export default ContentPage
