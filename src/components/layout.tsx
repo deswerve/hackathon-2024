@@ -15,10 +15,7 @@ export const Layout: FC<PropsWithChildren> = ({ children }) => (
                     <a href="https://www.digitale-oberlausitz.eu">Digitale Oberlausitz e.V.</a> präsentiert:
                 </p>
                 <Link to="/">
-                    <h1>
-                        Hackathon
-                        <br /> 2023
-                    </h1>
+                    <img id="hackathon-logo" alt="Hackathon 2023 Home" src="/hackathon2023-schriftzug.svg" />
                 </Link>
             </div>
         </div>

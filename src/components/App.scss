@@ -23,6 +23,7 @@
 
 .title {
     text-align: center;
+
     p a {
         text-decoration: underline;
     }
@@ -30,17 +31,9 @@
     a {
         text-decoration: none;
     }
-    h1 {
-        font-family: "Roboto Mono", monospace;
-        text-decoration: none;
-        text-transform: uppercase;
-        color: white;
-        line-height: 1;
-        font-size: 4em;
-        margin-bottom: 0;
 
-        -webkit-text-stroke: 2px black;
-        text-shadow: 3px 3px 0 black;
+    #hackathon-logo {
+        height: 10em;
     }
 }
 
