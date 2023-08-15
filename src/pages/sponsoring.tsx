@@ -37,18 +37,12 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             label: "ZEISS Digital Innovation",
             linkTarget: "https://www.zeiss.com/digital-innovation/home.html",
             logoImgPath: "/logo_zeiss.svg",
-            logoCss: {
-                height: "150px",
-            },
         },
         {
             id: "launix",
             label: "Launix",
             linkTarget: "https://launix.de/launix/",
             // logoImgPath: "/logo_launix.png",
-            logoCss: {
-                width: "400px",
-            },
         },
     ],
     silver: [
@@ -65,9 +59,6 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             label: "t(r)agwerk",
             linkTarget: "https://www.tragwerk.online",
             // logoImgPath: "/logo_tragwerk.jpg",
-            logoCss: {
-                width: "400px",
-            },
         },
     ],
 }
