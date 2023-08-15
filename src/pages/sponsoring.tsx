@@ -56,7 +56,7 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             id: "sednasoft",
             label: "SednaSoft",
             linkTarget: "https://sedna-soft.de/",
-            // logoImgPath: "/logo_sednasoft.png",
+            logoImgPath: "/logo_sednasoft.svg",
         },
     ],
     bronze: [
