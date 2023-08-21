@@ -21,7 +21,15 @@ export const Navbar: FC = () => (
             {/*    </Link>*/}
             {/*</li>*/}
             <li>
-                <Link to="/sponsoring">Sponsoren</Link>
+                <p>Sponsoring</p>
+                <ul>
+                    <li>
+                        <Link to="/sponsors">Unsere Sponsoren</Link>
+                    </li>
+                    <li>
+                        <Link to="/sponsoring">Sponsor werden</Link>
+                    </li>
+                </ul>
             </li>
             <li>
                 <Link to="/participate">Teilnehmen</Link>
