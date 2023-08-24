@@ -23,13 +23,9 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
     gold: [
         {
             id: "eno",
-            label: "Entwicklungsgesellschaft Niederschlesische Oberlausitz mbH",
+            label: "Unbezahlbarland / ENO",
             linkTarget: "https://wirtschaft-goerlitz.de/",
-            // logoImgPath: "/logo_eno.webp",
-            logoCss: {
-                backgroundColor: "#032338",
-                padding: "1em",
-            },
+            logoImgPath: "/logo_ubl.png",
         },
         {
             id: "zeiss",
@@ -40,8 +36,8 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
         {
             id: "launix",
             label: "Launix",
-            linkTarget: "https://launix.de/launix/",
-            // logoImgPath: "/logo_launix.png",
+            linkTarget: "https://launix.de/",
+            logoImgPath: "/logo_launix.png",
         },
     ],
     silver: [
@@ -55,9 +51,9 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
     bronze: [
         {
             id: "tragwerk",
-            label: "t(r)agwerk",
+            label: "tragwerk",
             linkTarget: "https://www.tragwerk.online",
-            // logoImgPath: "/logo_tragwerk.jpg",
+            logoImgPath: "/logo_tragwerk.jpg",
         },
     ],
 }

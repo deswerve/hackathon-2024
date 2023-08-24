@@ -1,4 +1,6 @@
 .sponsor-details {
+    border-bottom: solid 1px #ccc;
+
     a {
         text-decoration: none;
     }
@@ -19,4 +21,8 @@
 
 .sponsor-overview {
     margin-top: 4em;
+
+    h2 {
+        margin-bottom: 1.5em;
+    }
 }
