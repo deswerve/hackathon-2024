@@ -52,7 +52,7 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
         {
             id: "tragwerk",
             label: "tragwerk",
-            linkTarget: "https://www.tragwerk.online",
+            linkTarget: "https://tragwerk-goerlitz.de/",
             logoImgPath: "/logo_tragwerk.jpg",
         },
     ],
