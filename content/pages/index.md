@@ -4,7 +4,7 @@ title: Home
 ---
 
 Vom **20.10.2023 bis 22.10.2023** findet die zweite Auflage unseres Hackathon in Görlitz statt. Veranstaltungsort ist
-dieses Mal die [UnbezahlbarLounge](https://unbezahlbar.land/unbezahlbarlounge), die uns vom
+dieses Mal die [UnbezahlbarLounge](https://unbezahlbar.land/lounge), die uns vom
 [Unbezahlbarland](https://unbezahlbar.land/) bzw. der
 [Entwicklungsgenossenschaft Niederschlesische Oberlausitz mbH (ENO)](https://wirtschaft-goerlitz.de/) zur Verfügung
 gestellt wird.
