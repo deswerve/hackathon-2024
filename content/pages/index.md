@@ -53,6 +53,12 @@ Link zur Anmeldung: https://eveeno.com/hackathon-goerlitz-2023
 
 Mehr Infos zur Teilnahme findet ihr unter [Teilnehmen](/participate).
 
+## Newsletter
+
+Um auf dem Laufenden zu bleiben, melde dich gerne bei unserem Newsletter an. 
+
+[Newsletter-Anmeldung](https://mailchi.mp/26ea828e4a83/newsletter-hackathon)
+
 ## Kontakt
 
 Haben Sie Fragen? Melden Sie sich gerne unter
