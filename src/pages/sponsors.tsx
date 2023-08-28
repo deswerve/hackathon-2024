@@ -24,7 +24,7 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
         {
             id: "eno",
             label: "Unbezahlbarland / ENO",
-            linkTarget: "https://wirtschaft-goerlitz.de/",
+            linkTarget: "https://unbezahlbar.land/",
             logoImgPath: "/logo_ubl.png",
         },
         {
