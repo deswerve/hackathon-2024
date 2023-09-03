@@ -11,7 +11,18 @@ Wir vom Verein Digitale Oberlausitz e.V. glauben, es gibt in den Städten eine g
 
 Das ist unsere diesjährige Challenge! Welche Daten könnten Rathäusern helfen, ihre Stadt zu gestalten? Von welchen Daten würden die Bewohner profitieren? Welche Prozesse könnten damit angestoßen werden?
 
-Dieser Hackathon steht im Zeichen der Smart City. Wir stellen Sensoren, Mikrocontroller und Cloud-Zugänge bereit, damit die Challenge-TeilnehmerInnen direkt Daten erfassen und auswerten können. So kann die Idee gleich praktisch erprobt werden!
+Dieser Hackathon steht im Zeichen der Smart City. Für alle Challenge-TeilnehmerInnen unseres Hackathons haben wir eine technische Grundausstattung vorbereitet, um die Idee gleich praktisch zu erproben!
+
+- ESP32-Mikrocontroller mit Steckplatine, Netzteil und Kabel
+- Abstandssensoren mit einer Reichweite von bis zu 4 Metern
+- Sensoren zur Messung von Luftqualität, Luftfeuchtigkeit und Temperatur
+- Helligkeitssensoren
+- Schallpegelsensoren
+- Sensoren zur Bestimmung der Bodenfeuchtigkeit
+- Regentropfensensoren
+- RGB-Sensoren zur Farberkennung
+- Cloudzugang
+- ...
 
 Ausdrücklich möchten wir auch Nicht-TechnikerInnen willkommen heißen. Technologie ist das Eine - gute Ideen und der Mensch im Mittelpunkt einer Stadt das Andere. Beide Welten sollen sich hier ergänzen und gemeinsam an einer Umsetzung arbeiten.
 
