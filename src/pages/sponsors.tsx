@@ -62,6 +62,12 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             linkTarget: "https://tragwerk-goerlitz.de/",
             logoImgPath: "/logo_tragwerk.jpg",
         },
+        {
+            id: "tallence",
+            label: "Tallence AG",
+            linkTarget: "https://www.tallence.com",
+            logoImgPath: "/logo_tallence.svg"
+        }
     ],
 }
 
