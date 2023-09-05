@@ -32,6 +32,13 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             label: "ZEISS Digital Innovation",
             linkTarget: "https://www.zeiss.com/digital-innovation/home.html",
             logoImgPath: "/logo_zeiss.svg",
+            // adjust styling so that the ZEISS logo looks similar in size compared to other logos
+            logoCss: {
+                maxWidth: "500px",
+                maxHeight: "500px",
+                height: "200px",
+                width: "200px",
+            },
         },
         {
             id: "launix",
