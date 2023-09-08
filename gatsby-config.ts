@@ -19,9 +19,21 @@ const config: GatsbyConfig = {
                 icon: path.resolve("content/images/doev-logo.png"),
             },
         },
-        "gatsby-transformer-remark",
         "gatsby-plugin-sharp",
         "gatsby-transformer-sharp",
+        {
+            resolve: "gatsby-transformer-remark",
+            options: {
+                plugins: [
+                    {
+                        resolve: "gatsby-remark-images",
+                        options: {
+                            maxWidth: 800,
+                        },
+                    },
+                ],
+            },
+        },
         "gatsby-plugin-sass",
         {
             resolve: "gatsby-source-filesystem",
