@@ -27,6 +27,7 @@ Dieser Hackathon steht im Zeichen der Smart City. Für alle Challenge-Teilnehmer
 Ausdrücklich möchten wir auch Nicht-TechnikerInnen willkommen heißen. Technologie ist das Eine - gute Ideen und der Mensch im Mittelpunkt einer Stadt das Andere. Beide Welten sollen sich hier ergänzen und gemeinsam an einer Umsetzung arbeiten.
 
 Hast du kreative Ideen, wo Daten das Leben der Menschen bewegen können? Fasziniert dich die Arbeit mit Sensoren und Mikrocontrollern?
+![Ein ESP Mikrocontroller mit einigen Sensoren](../images/espworkinprogres.jpg)
 
 Melde dich für unseren Hackathon an: https://eveeno.com/hackathon-goerlitz-2023
 
