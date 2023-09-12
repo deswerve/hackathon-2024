@@ -82,7 +82,7 @@ Technische Hinweise zur Erstellung und Einreichung von Challenge-Lösungen finde
 
 -   **Zu welchen Zeiten findet der Hackathon statt??**
 
-    Der Hackathon findet von Freitag, den 21.10.2023 bis Sonntag, den 23.10.2023 statt.
+    Der Hackathon findet von Freitag, den 20.10.2023 bis Sonntag, den 22.10.2023 statt.
 
     -   Am Freitag startet der Hackathon 15:00 Uhr (Einlass ab 14:30 Uhr) und geht bis 22 Uhr.
     -   Am Samstag sind wir von 8:30 Uhr bis 22 Uhr vor Ort.
