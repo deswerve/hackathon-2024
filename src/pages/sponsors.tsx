@@ -22,15 +22,15 @@ type Sponsor = {
 const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
     gold: [
         {
-            id: "eno",
-            label: "Unbezahlbarland / ENO",
-            linkTarget: "https://unbezahlbar.land/",
-            logoImgPath: "/logo_hszg.png",
-        },
-        {
             id: "hszg",
             label: "Hochschule Zittau/Görlitz",
             linkTarget: "https://https://www.hszg.de/",
+            logoImgPath: "/logo_hszg.png",
+        },
+        {
+            id: "eno",
+            label: "Unbezahlbarland / ENO",
+            linkTarget: "https://unbezahlbar.land/",
             logoImgPath: "/logo_ubl.png",
         },
         {
