@@ -43,6 +43,12 @@ Sonntag, der 22.10.2023:
 
 Zwischendurch stellen wir Mittag ca. 12:00 Uhr und Abendbrot ca. 18:30 Uhr für alle bereit.
 
+## Preisgeld
+
+Dank [unserer Sponsoren](/sponsors) können wir dieses Jahr ein Preisgeld ausloben.
+
+Insgesamt stehen **1024€ Preisgeld** zur Verfügung, das wir auf die **3 Gewinnerteams** aufteilen möchten.
+
 
 ## Teilnehmer\*innen gesucht
 
