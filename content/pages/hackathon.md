@@ -27,7 +27,7 @@ Unternehmen oder Institutionen in Kontakt kommen.
 
 ### Freitag, der 20.10.2023
 
-Der Hackathon beginnt am Freitag ab 15:00 Uhr mit der Begrüßung der Teilnehmenden und Vorstellung der Smart City Challenge.
+Der Hackathon beginnt am Freitag ab 15:00 Uhr (Einlass ab 14:30 Uhr) mit der Begrüßung der Teilnehmenden und Vorstellung der Smart City Challenge.
 Anschließend findet die Teambildung statt und die Arbeit an den Challenges kann beginnen.
 
 ### Samstag, der 21.10.2023

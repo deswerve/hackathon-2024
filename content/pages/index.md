@@ -37,9 +37,9 @@ Samstag, der 21.10.2023:
 
 Sonntag, der 22.10.2023:
 - ab 08:30: Einlass und Teamarbeit an der Challenge
-- 14:30: Ergebnispresentation der Teams
-- 16:00: Jury und Preisverleihung
-- 17:00: Ende von Tag 3
+- 14:00: Ergebnispresentation der Teams
+- 15:00: Jury und Preisverleihung
+- 16:00: Ende von Tag 3
 
 Zwischendurch stellen wir Mittag ca. 12:00 Uhr und Abendbrot ca. 18:30 Uhr für alle bereit.
 

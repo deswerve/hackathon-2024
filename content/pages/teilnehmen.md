@@ -86,7 +86,7 @@ Technische Hinweise zur Erstellung und Einreichung von Challenge-Lösungen finde
 
     -   Am Freitag startet der Hackathon 15:00 Uhr (Einlass ab 14:30 Uhr) und geht bis 22 Uhr.
     -   Am Samstag sind wir von 8:30 Uhr bis 22 Uhr vor Ort.
-    -   Am Sonntag sind wir von 8:30 Uhr bis 17 Uhr vor Ort.
+    -   Am Sonntag sind wir von 8:30 Uhr bis 16 Uhr vor Ort.
 
 -   **Wann gibt es etwas zu Essen und Trinken?**
 
