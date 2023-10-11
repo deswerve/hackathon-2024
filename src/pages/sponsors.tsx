@@ -15,6 +15,8 @@ type Sponsor = {
     /** a (local) path/URL to the image of the logo (e.g. "/logo_acme.png" */
     logoImgPath?: string
 
+    greetingText?: string
+
     /** additional CSS applied to the logo to make the logo look ok and to get all logos look equally big */
     logoCss?: React.CSSProperties
 }
@@ -36,7 +38,7 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
         {
             id: "zeiss",
             label: "ZEISS Digital Innovation",
-            linkTarget: "https://www.zeiss.com/digital-innovation/home.html",
+            linkTarget: "https://www.zeiss.de/digital-innovation",
             logoImgPath: "/logo_zeiss.svg",
             // adjust styling so that the ZEISS logo looks similar in size compared to other logos
             logoCss: {
@@ -45,6 +47,7 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
                 height: "200px",
                 width: "200px",
             },
+            greetingText: `Als Fördermitglied des Digitale Oberlausitz e. V. wünschen wir allen IT-begeisterten Teilnehmenden viel Spaß und einen spannenden Austausch beim diesjährigen Hackathon! Viel Erfolg wünscht euer #teamZEISS.`,
         },
         {
             id: "launix",
@@ -72,19 +75,27 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             id: "tallence",
             label: "Tallence AG",
             linkTarget: "https://www.tallence.com",
-            logoImgPath: "/logo_tallence.svg"
-        }
+            logoImgPath: "/logo_tallence.svg",
+        },
     ],
 }
 
 const SponsorDetails: React.FC<{ sponsor: Sponsor }> = ({ sponsor }) => (
     <div className="sponsor-details">
-        <a href={sponsor.linkTarget} title={sponsor.label}>
-            {sponsor.logoImgPath && (
-                <img style={{ ...sponsor.logoCss }} alt={`Logo ${sponsor.label}`} src={sponsor.logoImgPath} />
-            )}
-            <p>{sponsor.label}</p>
-        </a>
+        <div className="sponsor-title">
+            <a href={sponsor.linkTarget} title={sponsor.label}>
+                {sponsor.logoImgPath && (
+                    <img style={{ ...sponsor.logoCss }} alt={`Logo ${sponsor.label}`} src={sponsor.logoImgPath} />
+                )}
+                <p>{sponsor.label}</p>
+            </a>
+        </div>
+
+        {sponsor.greetingText && (
+            <div className="greeting-text">
+                <p>{sponsor.greetingText}</p>
+            </div>
+        )}
     </div>
 )
 

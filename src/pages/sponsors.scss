@@ -1,5 +1,38 @@
+/* mobile */
+
+@media screen and (max-width: 1200px) {
+    .sponsor-details {
+        flex-direction: column;
+    }
+}
+
+/* desktop */
+@media screen and (min-width: 1200px) {
+    .sponsor-details {
+        flex-direction: row;
+
+        .greeting-text {
+            display: flex;
+            align-items: center;
+            p {
+                margin-left: 0.5em;
+                line-height: 1.1em;
+            }
+        }
+    }
+}
+
 .sponsor-details {
-    border-bottom: solid 1px #ccc;
+    display: flex;
+
+    .sponsor-title {
+        display: block;
+        min-width: 400px;
+    }
+
+    .greeting-text p {
+        margin-top: 0;
+    }
 
     a {
         text-decoration: none;
