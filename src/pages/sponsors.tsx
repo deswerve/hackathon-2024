@@ -63,6 +63,12 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             linkTarget: "https://sedna-soft.de/",
             logoImgPath: "/logo_sednasoft.svg",
         },
+        {
+            id: "innolabs",
+            label: "InnoLabs",
+            linkTarget: "https://www.innolabs-goerlitz.de",
+            logoImgPath: "/logo_innolabs.svg"
+        }
     ],
     bronze: [
         {
