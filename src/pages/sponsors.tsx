@@ -67,8 +67,14 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
             id: "innolabs",
             label: "InnoLabs",
             linkTarget: "https://www.innolabs-goerlitz.de",
-            logoImgPath: "/logo_innolabs.svg"
-        }
+            logoImgPath: "/logo_innolabs.svg",
+        },
+        {
+            id: "fev",
+            label: "FEV.io",
+            linkTarget: "https://fev.io/",
+            logoImgPath: "/logo_fev.png",
+        },
     ],
     bronze: [
         {
