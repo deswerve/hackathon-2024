@@ -71,8 +71,8 @@ const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
         },
         {
             id: "fev",
-            label: "FEV.io",
-            linkTarget: "https://fev.io/",
+            label: "FEV etamax GmbH",
+            linkTarget: "https://www.etamax.de/",
             logoImgPath: "/logo_fev.png",
         },
     ],
