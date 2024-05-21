@@ -35,8 +35,9 @@ Das Orga-Team steht gerne für Fragen rund um Git sowie die Einrichtung eines Gi
 
 ## Lizenz
 
-Im Sinne des Open-Source-Gedankens, muss der Quellcode öffentlich zugänglich unter einer Open-Source-Lizenz zur Verfügung gestellt
-werden. Damit können alle anderen Interessierten die erarbeiteten Lösungen nutzen und von ihnen lernen.
+Im Sinne des Open-Source-Gedankens, muss der Quellcode öffentlich zugänglich unter einer Open-Source-Lizenz zur
+Verfügung gestellt werden. Damit können alle anderen Interessierten die erarbeiteten Lösungen nutzen und von ihnen
+lernen.
 
 Bitte wählt selbst eine Lizenz aus der Liste der von der "Open Source Initiative" bestätigten Lizenzen aus:
 [https://opensource.org/licenses](https://opensource.org/licenses).

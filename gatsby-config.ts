@@ -3,8 +3,8 @@ import path from "node:path"
 
 const config: GatsbyConfig = {
     siteMetadata: {
-        title: `Hackathon 2023`,
-        siteUrl: `https://hackathon2023.digitale-oberlausitz.eu`,
+        title: `Hackathon 2024`,
+        siteUrl: `https://hackathon2024.digitale-oberlausitz.eu`,
     },
     // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
     // If you use VSCode you can also use the GraphQL plugin

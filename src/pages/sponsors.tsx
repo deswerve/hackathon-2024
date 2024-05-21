@@ -22,74 +22,9 @@ type Sponsor = {
 }
 
 const sponsors: Record<"gold" | "silver" | "bronze", Array<Sponsor>> = {
-    gold: [
-        {
-            id: "hszg",
-            label: "Hochschule Zittau/Görlitz",
-            linkTarget: "https://www.hszg.de/",
-            logoImgPath: "/logo_hszg.png",
-        },
-        {
-            id: "eno",
-            label: "Unbezahlbarland / ENO",
-            linkTarget: "https://unbezahlbar.land/",
-            logoImgPath: "/logo_ubl.png",
-        },
-        {
-            id: "zeiss",
-            label: "ZEISS Digital Innovation",
-            linkTarget: "https://www.zeiss.de/digital-innovation",
-            logoImgPath: "/logo_zeiss.svg",
-            // adjust styling so that the ZEISS logo looks similar in size compared to other logos
-            logoCss: {
-                maxWidth: "500px",
-                maxHeight: "500px",
-                height: "200px",
-                width: "200px",
-            },
-            greetingText: `Als Fördermitglied des Digitale Oberlausitz e. V. wünschen wir allen IT-begeisterten Teilnehmenden viel Spaß und einen spannenden Austausch beim diesjährigen Hackathon! Viel Erfolg wünscht euer #teamZEISS.`,
-        },
-        {
-            id: "launix",
-            label: "Launix",
-            linkTarget: "https://launix.de/",
-            logoImgPath: "/logo_launix.png",
-        },
-    ],
-    silver: [
-        {
-            id: "sednasoft",
-            label: "SednaSoft",
-            linkTarget: "https://sedna-soft.de/",
-            logoImgPath: "/logo_sednasoft.svg",
-        },
-        {
-            id: "innolabs",
-            label: "InnoLabs",
-            linkTarget: "https://www.innolabs-goerlitz.de",
-            logoImgPath: "/logo_innolabs.svg",
-        },
-        {
-            id: "fev",
-            label: "FEV etamax GmbH",
-            linkTarget: "https://www.etamax.de/",
-            logoImgPath: "/logo_fev.png",
-        },
-    ],
-    bronze: [
-        {
-            id: "tragwerk",
-            label: "tragwerk",
-            linkTarget: "https://tragwerk-goerlitz.de/",
-            logoImgPath: "/logo_tragwerk.jpg",
-        },
-        {
-            id: "tallence",
-            label: "Tallence AG",
-            linkTarget: "https://www.tallence.com",
-            logoImgPath: "/logo_tallence.svg",
-        },
-    ],
+    gold: [],
+    silver: [],
+    bronze: [],
 }
 
 const SponsorDetails: React.FC<{ sponsor: Sponsor }> = ({ sponsor }) => (
@@ -148,7 +83,9 @@ Unsere Sponsoren unterstützen uns aktiv bei der Verwirklichung dieser Vision.
             `}
         />
 
-        <SponsorsOverview sponsors={sponsors} />
+        <p>Coming soon...</p>
+
+        {/*<SponsorsOverview sponsors={sponsors} />*/}
     </Layout>
 )
 

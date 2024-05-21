@@ -54,6 +54,14 @@ Organisation des Hackathons sowie die Finanzierung von Preisen für die Teilnehm
     )
 }
 
-export default SponsoringPage
+const TempSponsoringPage = () => {
+    return (
+        <Layout>
+            <h1>Coming soon...</h1>
+        </Layout>
+    )
+}
+
+export default TempSponsoringPage
 
 export const Head: HeadFC = () => <title>Sponsoring</title>

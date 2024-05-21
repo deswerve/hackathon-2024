@@ -42,6 +42,9 @@ export const Navbar: FC = () => (
             <p>Archiv</p>
             <ul>
                 <li>
+                    <a href="https://hackathon2023.digitale-oberlausitz.eu">2023</a>
+                </li>
+                <li>
                     <a href="https://hackathon2022.digitale-oberlausitz.eu">2022</a>
                 </li>
             </ul>
