@@ -8548,9 +8548,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hackathon-2023@workspace:.":
+"hackathon-2024@workspace:.":
   version: 0.0.0-use.local
-  resolution: "hackathon-2023@workspace:."
+  resolution: "hackathon-2024@workspace:."
   dependencies:
     "@types/node": "npm:^20.12.12"
     "@types/ramda": "npm:^0.30.0"
