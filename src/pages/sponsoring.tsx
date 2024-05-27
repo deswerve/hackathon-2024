@@ -15,12 +15,13 @@ const SponsoringPage: React.FC<PageProps> = () => {
                         children={`
 # Wir sind auf der Suche nach weiteren Sponsoren
 
-Wir sind auf der Suche nach weiteren Sponsoren, die unsere Veranstaltung finanziell unterstützen möchten.
+Wir sind auf der Suche nach Sponsoren, die unsere Veranstaltung finanziell unterstützen möchten.
 
 Wenn Sie unsere Vision teilen, unterstützen Sie uns! Das eingeworbene Geld wird vollständig für die 
 Organisation des Hackathons sowie die Finanzierung von Preisen für die Teilnehmenden verwendet.
 
-**Am Ende dieser Seite finden Sie ein Anfrageformular oder melden Sie sich bei Interesse oder Fragen gerne unter [hackathon@digitale-oberlausitz.eu](mailto:hackathon@digitale-oberlausitz.eu).**
+**In kürze folgt am Ende dieser Seite ein Anfrageformular für das Sponsoring. 
+Melden Sie sich bei Interesse oder Fragen gerne bereits jetzt unter [hackathon@digitale-oberlausitz.eu](mailto:hackathon@digitale-oberlausitz.eu)**
 
 ## Bronze-Paket  (256 Euro)
 
@@ -28,40 +29,35 @@ Organisation des Hackathons sowie die Finanzierung von Preisen für die Teilnehm
 - Flyer/Info-Material als Beigabe zu Infobeuteln für Teilnehmende
 - Erwähnung mit Logo auf Hackathon-Website
 - Erwähnung als Veranstaltungspartner durch uns bei Eröffnungsveranstaltung
-- kleines Logo auf Sponsoren-Poster bei der Veranstaltung
-- Erwähnung auf Werbe-Plakat (zeitlich befristed bis 31.08.2023)
+- kleines Logo auf Sponsoren-Poster oder digitaler Sponsoren-Präsentation
+- Erwähnung mit Logo auf Werbe-Plakat (zeitlich befristed bis 31.08.2024)
 
 ## Silber-Paket (512 Euro)
 - alles aus Bronze-Paket
-- Sponsor kann sich auf Eröffnungsveranstaltung selbst vorstellen (5 Min)
-- Zugang zu Offline-Job-Wall (Pinnwand) bei der Veranstaltung
+- Zugang zu Job-Wall (Pinnwand) bei der Veranstaltung
 - Aufhängen von eigenen Plakaten (in Abstimmung mit uns)
-- mittleres Logo auf Sponsoren-Poster
+- mittleres Logo auf Sponsoren-Poster oder digitaler Sponsoren-Präsentation
 - Trailer/Poster auf Bildschirm-Wand im Durchlauf
 
 ## Gold-Paket (1024 Euro)
 - alles aus Silber-Paket
+- Sponsor kann sich auf Eröffnungsveranstaltung selbst vorstellen (5 Min)
 - stellen eines Jury-Mitglieds (Details des Jury-Prozesses folgen)
 - Zitat/Grußwort auf der Website (begrenzte Zeichenzahl, Foto von Personen + Logo möglich, Darstellung im Stile von Testimonials)
 - aufstellen eines Rollups (muss von Sponsor bereitgestellt werden)
-- großes Logo auf Sponsoring-Poster
+- großes Logo auf Sponsoring-Poster oder digitaler Sponsoren-Präsentation
             `}
                     />
                 </>
             )}
-            <SponsoringContractForm onShowResultPage={setHideMarkdown} />
+
+            <h3>Sponsoring-Formular folgt in Kürze</h3>
+
+            {/*<SponsoringContractForm onShowResultPage={setHideMarkdown} />*/}
         </Layout>
     )
 }
 
-const TempSponsoringPage = () => {
-    return (
-        <Layout>
-            <h1>Coming soon...</h1>
-        </Layout>
-    )
-}
-
-export default TempSponsoringPage
+export default SponsoringPage
 
 export const Head: HeadFC = () => <title>Sponsoring</title>
